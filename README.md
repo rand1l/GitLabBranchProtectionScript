@@ -15,6 +15,3 @@ GitLab Branch Protector is a Python utility that automates the management of bra
 
 - **Environment-Based Configuration:**
   All sensitive data (GitLab URL, tokens, group names, etc.) are provided via environment variables, making the tool secure and adaptable.
-
-```bash
-pip install requests
